@@ -1,0 +1,12 @@
+{
+    "phrases": [
+        {   
+            "id": 1, 
+            "greeting": "hello everyone"
+        },
+        {
+            "id": 2, 
+            "parting": "bye"
+        }
+    ]
+}
